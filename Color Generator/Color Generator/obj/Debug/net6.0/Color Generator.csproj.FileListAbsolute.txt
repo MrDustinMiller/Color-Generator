@@ -1,0 +1,15 @@
+C:\Users\dsmil\source\repos\c#\Color Generator\Color Generator\Color Generator\bin\Debug\net6.0\Color Generator.exe
+C:\Users\dsmil\source\repos\c#\Color Generator\Color Generator\Color Generator\bin\Debug\net6.0\Color Generator.deps.json
+C:\Users\dsmil\source\repos\c#\Color Generator\Color Generator\Color Generator\bin\Debug\net6.0\Color Generator.runtimeconfig.json
+C:\Users\dsmil\source\repos\c#\Color Generator\Color Generator\Color Generator\bin\Debug\net6.0\Color Generator.dll
+C:\Users\dsmil\source\repos\c#\Color Generator\Color Generator\Color Generator\bin\Debug\net6.0\Color Generator.pdb
+C:\Users\dsmil\source\repos\c#\Color Generator\Color Generator\Color Generator\obj\Debug\net6.0\Color Generator.csproj.AssemblyReference.cache
+C:\Users\dsmil\source\repos\c#\Color Generator\Color Generator\Color Generator\obj\Debug\net6.0\Color Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsmil\source\repos\c#\Color Generator\Color Generator\Color Generator\obj\Debug\net6.0\Color Generator.AssemblyInfoInputs.cache
+C:\Users\dsmil\source\repos\c#\Color Generator\Color Generator\Color Generator\obj\Debug\net6.0\Color Generator.AssemblyInfo.cs
+C:\Users\dsmil\source\repos\c#\Color Generator\Color Generator\Color Generator\obj\Debug\net6.0\Color Generator.csproj.CoreCompileInputs.cache
+C:\Users\dsmil\source\repos\c#\Color Generator\Color Generator\Color Generator\obj\Debug\net6.0\Color Generator.dll
+C:\Users\dsmil\source\repos\c#\Color Generator\Color Generator\Color Generator\obj\Debug\net6.0\refint\Color Generator.dll
+C:\Users\dsmil\source\repos\c#\Color Generator\Color Generator\Color Generator\obj\Debug\net6.0\Color Generator.pdb
+C:\Users\dsmil\source\repos\c#\Color Generator\Color Generator\Color Generator\obj\Debug\net6.0\Color Generator.genruntimeconfig.cache
+C:\Users\dsmil\source\repos\c#\Color Generator\Color Generator\Color Generator\obj\Debug\net6.0\ref\Color Generator.dll
